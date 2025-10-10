@@ -21,6 +21,7 @@
 </p>
 
 ---
+[![An image of @saviour2's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saviour2)](https://holopin.io/@saviour2)
 
 ## 🚀 Skills & Technologies
 
