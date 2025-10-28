@@ -164,7 +164,7 @@ me.say_hi()
 
 [![Holopin Badges](https://holopin.me/saviour2)](https://holopin.io/@saviour2)
 
-**🔥 HACKTOBERFEST 2024**
+**🔥 HACKTOBERFEST 2025**
 ```
 [████████████] 6/6 PRs MERGED
 Status: SUPER CONTRIBUTOR
