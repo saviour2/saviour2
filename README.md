@@ -62,6 +62,9 @@
    └─ IBM SkillsBuild Intern
    └─ Open Source Contributor
 ```
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/saviour2.png" alt="Your Image Badge" />
+</div>
 
 </td>
 <td width="50%" valign="top">
